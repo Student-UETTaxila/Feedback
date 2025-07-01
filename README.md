@@ -5,9 +5,7 @@ html, CSS, Javascript Practice Project
 A beginner-friendly JavaScript DOM project where users can provide quick feedback by selecting a rating (e.g., emojis or buttons) and submitting it. This project demonstrates real-time DOM manipulation and interactive UI development.
 
 ## 🚀 Live Demo
-
-
-
+ https://student-uettaxila.github.io/Feedback/
 ## 📁 Project Structure
 
 feedback-app/
